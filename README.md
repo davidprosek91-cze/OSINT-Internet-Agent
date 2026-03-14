@@ -3,7 +3,7 @@
 OSINT (Open Source Intelligence) Internet Agent je nástroj pro automatizované získávání informací z internetu. Tento projekt je navržen tak, aby využíval AI modely pro provádění vyhledávacích úkolů, analýzy a generování reportů.
 
 ## Klíčové vlastnosti
-- Použití modelů, jako je `gpt-4`, pro analýzu a úkoly.
+- Použití modelů, jako je `kimi-k2:1t-cloud`, pro analýzu a úkoly.
 - Automatizace práce s webovými stránkami a extrakce dat.
 - Možnost rozšíření a přizpůsobení pro různé OSINT scénáře.
 
