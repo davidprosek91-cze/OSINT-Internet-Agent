@@ -36,7 +36,7 @@ OSINT (Open Source Intelligence) Internet Agent je nástroj pro automatizované 
 
 ## Použití
 
-1. Nastavte OpenAI API klíč (např. pro model GPT-4):
+1. Nastavte OpenAI API klíč (např. pro model kimi-k2:1t-cloud):
    ```bash
    export OPENAI_API_KEY="váš_api_klíč"
    ```
